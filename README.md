@@ -1,0 +1,3 @@
+# skaffold-demo
+
+    skaffold init
